@@ -84,10 +84,11 @@ if st.button('Submit'):
 
     if show_sources:
         st.write('\n\nSources:')
-        for source in llm_response["source_documents"]:
-            page_content = source.page_content
-            wrapped_text = wrap_text_preserve_newlines(page_content)
-            st.write(wrapped_text)
+        for i, source in enumerate(llm_response["source_documents"]):
+            with st.expander(f'Source {i+1}'):
+                page_content = source.page_content
+                wrapped_text = wrap_text_preserve_newlines(page_content)
+                st.write(wrapped_text)
 
     end_time = time.time()
     total_time = end_time - start_time
