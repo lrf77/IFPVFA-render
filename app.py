@@ -63,24 +63,20 @@ st.title('Forestry Virtual Assistant')
 
 query = st.text_input('Enter Your Question:')
 show_sources = st.checkbox('Show Sources')
-#show_audio = st.checkbox('Listen to Audio')
 
 # Model selection
 model_name = st.selectbox('Select model:', ('gpt-4', 'gpt-3.5-turbo'))
-turbo_llm = ChatOpenAI(temperature=0.0, model_name=model_name)
-
-# Voice selection
-#voice = st.selectbox('Select voice:', ('Bella', 'Rachel', 'Adam', 'Josh'))
 
 if st.button('Submit'):
+    # VA Setup
+    turbo_llm = ChatOpenAI(temperature=0.0, model_name=model_name)
+    docsearch = Pinecone.from_existing_index(index_name=index_name, namespace=namespace, embedding=embedding)
+    qa_chain = RetrievalQA.from_chain_type(llm=turbo_llm, chain_type="stuff", retriever=docsearch.as_retriever(), return_source_documents=True)
+
     start_time = time.time()
     llm_response = qa_chain({"query": query})
     response_text = wrap_text_preserve_newlines(llm_response['result'])
     st.write(response_text)
-
-    #if show_audio:
-    #    audio = generate(text=response_text, voice=voice, model="eleven_monolingual_v1", api_key=elevenlabs_api_key)
-    #    play(audio)
 
     if show_sources:
         st.write('\n\nSources:')
@@ -93,6 +89,8 @@ if st.button('Submit'):
     end_time = time.time()
     total_time = end_time - start_time
     st.write("\nTotal runtime: {:.2f} seconds".format(total_time))
+    st.write(f"Model used: {model_name}")
+
 
 
 
