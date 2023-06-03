@@ -78,9 +78,9 @@ if st.button('Submit'):
     response_text = wrap_text_preserve_newlines(llm_response['result'])
     st.write(response_text)
 
-    if show_audio:
-        audio = generate(text=response_text, voice=voice, model="eleven_monolingual_v1", api_key=elevenlabs_api_key)
-        play(audio)
+    #if show_audio:
+    #    audio = generate(text=response_text, voice=voice, model="eleven_monolingual_v1", api_key=elevenlabs_api_key)
+    #    play(audio)
 
     if show_sources:
         st.write('\n\nSources:')
