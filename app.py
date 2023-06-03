@@ -63,14 +63,14 @@ st.title('Forestry Virtual Assistant')
 
 query = st.text_input('Enter Your Question:')
 show_sources = st.checkbox('Show Sources')
-show_audio = st.checkbox('Listen to Audio')
+#show_audio = st.checkbox('Listen to Audio')
 
 # Model selection
 model_name = st.selectbox('Select model:', ('gpt-4', 'gpt-3.5-turbo'))
 turbo_llm = ChatOpenAI(temperature=0.0, model_name=model_name)
 
 # Voice selection
-voice = st.selectbox('Select voice:', ('Bella', 'Rachel', 'Adam', 'Josh'))
+#voice = st.selectbox('Select voice:', ('Bella', 'Rachel', 'Adam', 'Josh'))
 
 if st.button('Submit'):
     start_time = time.time()
