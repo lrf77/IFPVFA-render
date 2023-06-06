@@ -160,7 +160,7 @@ with st.sidebar.expander("Library Documents"):
 
 # Main area
 st.title('Forestry Virtual Assistant')
-query = st.text_input('Enter Your Question:')
+query = st.text_area('Enter Your Question:', height=100)
 show_sources = st.checkbox('Show Sources')
 
 # Model selection
