@@ -59,7 +59,7 @@ def process_llm_response(llm_response, show_sources=False, show_audio=False):
             st.write(wrapped_text)
 
 # Sidebar
-st.sidebar.title('Navigation')
+st.sidebar.title('Welcome')
 st.sidebar.markdown('## How to use')
 st.sidebar.markdown('<p style="font-size:10px">1. Enter your question in the text input field in the main area of the app.</p>', unsafe_allow_html=True)
 st.sidebar.markdown('<p style="font-size:10px">2. If you want to see the sources that the answer is based on, check the "Show Sources" checkbox.</p>', unsafe_allow_html=True)
@@ -78,6 +78,22 @@ st.sidebar.markdown('<p style="font-size:10px"><b>Q4: Can I see the sources of t
 
 # List of documents
 documents = [
+    "NEW: Forest and Range Practices Act - FOREST PLANNING AND PRACTICES REGULATION - current to March 15, 2023",
+    "NEW: Government of British Columbia - WILDFIRE ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - RANGE ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - BILL 13 — 2009 FOREST AMENDMENT ACT, 2009 - 26th day of March, 2009",
+    "NEW: Government of British Columbia - PROTECTED AREAS FORESTS COMPENSATION ACT - current to March 29, 2023",
+    "NEW: Government of British Columbia - FORESTRY REVITALIZATION ACT - current to March 29, 2023",
+    "NEW: Government of British Columbia - OFF-ROAD VEHICLE ACT - current to March 29, 2023",
+    "NEW: Government of British Columbia - RIPARIAN AREAS PROTECTION ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - WOOD FIRST ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - PROFESSIONAL GOVERNANCE ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - WATER SUSTAINABILITY ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - FOREST ACT - current to May 10, 2023",
+    "NEW: Government of British Columbia - PROTECTED AREAS OF BRITISH COLUMBIA ACT - current to April 26, 2023",
+    "NEW: Government of Canada - Forestry Act - Current to May 17, 2023",
+    "NEW: Government of Canada - Canada Wildlife Act - Current to May 17, 2023",
+    "NEW: Government of Canada - Fisheries Act - Current to May 17, 2023"
     "BC Ministry of Forests - BRIDGE STANDARDS MANUAL - Mar. 7, 2023",
     "BC Ministry of Forests - GROWTH AND YIELD PREDICTION SYSTEMS - February 1991",
     "BC Timber Sales Annual Performance Report 2018 - 2019",
@@ -191,5 +207,5 @@ if st.button('Submit'):
     st.write(f"Model used: {model_name}")
 
 
-# streamlit run appcopy.py
+# streamlit run app.py
 
