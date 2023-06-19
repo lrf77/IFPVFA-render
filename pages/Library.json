@@ -18,7 +18,8 @@
         "/Creator": "British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development (FLNRORD)",
         "/CreationDate": "202101",
         "/ModDate": null,
-        "/Keywords": "Okanagan TSA, timber supply review, AAC, Forest Act, timber supply analysis, resource management objectives, Forest and Range Practices Act, Okanagan Shuswap Land and Resource Management Plan"
+        "/Keywords": "Okanagan TSA, timber supply review, AAC, Forest Act, timber supply analysis, resource management objectives, Forest and Range Practices Act, Okanagan Shuswap Land and Resource Management Plan",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/OkanaganTSADiscussionJan2021.pdf"
     },
     {
         "id": "BCTimberRep2019",
@@ -28,7 +29,8 @@
         "/Creator": "Ministry of Forest, Lands, Natural Resources Operations and Rural Development",
         "/CreationDate": "20190401",
         "/ModDate": null,
-        "/Keywords": "BC Timber Sales, Annual Performance, Ministry of Forest, Lands, Natural Resources Operations and Rural Development, Stewardship, Crown land, Sustainable Natural Resource Management, Reconciliation with Indigenous Peoples, Resilience to Natural Hazards, Rural Development and Resilience, Market Pricing System"
+        "/Keywords": "BC Timber Sales, Annual Performance, Ministry of Forest, Lands, Natural Resources Operations and Rural Development, Stewardship, Crown land, Sustainable Natural Resource Management, Reconciliation with Indigenous Peoples, Resilience to Natural Hazards, Rural Development and Resilience, Market Pricing System",
+    	"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTimberRep2019.pdf"
     },
     {
 		"id": "BCTimberRep2020",
@@ -38,8 +40,9 @@
 		"/Creator": "Ministry of Forest, Lands, Natural Resources Operations and Rural Development",
 		"/CreationDate": "20200401",
 		"/ModDate": null,
-		"/Keywords": "BC Timber Sales, Annual Performance, Ministry of Forest, Lands, Natural Resources Operations and Rural Development, Stewardship, Crown land, Sustainable Natural Resource Management, Reconciliation with Indigenous Peoples, Resilience to Natural Hazards, Rural Development and Resilience, Market Pricing System"
-	},
+		"/Keywords": "BC Timber Sales, Annual Performance, Ministry of Forest, Lands, Natural Resources Operations and Rural Development, Stewardship, Crown land, Sustainable Natural Resource Management, Reconciliation with Indigenous Peoples, Resilience to Natural Hazards, Rural Development and Resilience, Market Pricing System",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTimberRep2020.pdf"
+    },
 	{
 		"id": "BCInterAppManu2022",
 		"/Title": "TIMBER PRICING BRANCH Interior Appraisal Manual Effective July 1, 2022 Cost Base of: 2020",
@@ -48,8 +51,9 @@
 		"/Creator": "Ministry of Forests",
 		"/CreationDate": "20220701",
 		"/ModDate": null,
-		"/Keywords": "Timber Pricing Branch, Interior Appraisal Manual, British Columbia Government, Timber Pricing, Cost Estimates, Ministry of Forests"
-	},
+		"/Keywords": "Timber Pricing Branch, Interior Appraisal Manual, British Columbia Government, Timber Pricing, Cost Estimates, Ministry of Forests",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCInterAppManu2022A3.pdf"
+    },
 	{
 		"id": "BCSilviSurManu",
 		"/Title": "Silviculture Survey Procedures Manual",
@@ -58,8 +62,9 @@
 		"/Creator": "Forest Science, Planning and Practices Branch",
 		"/CreationDate": "20230401",
 		"/ModDate": null,
-		"/Keywords": "Forest Science, Planning and Practices Branch, Silviculture Survey, Procedures Manual, Ministry of Forests, Reporting Requirements, Survey Methodologies"
-	},
+		"/Keywords": "Forest Science, Planning and Practices Branch, Silviculture Survey, Procedures Manual, Ministry of Forests, Reporting Requirements, Survey Methodologies",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCSilviSurManu.pdf"
+    },
 	{
 		"id": "APTR041SMUSIKA",
 		"/Title": "Linkages and Licences",
@@ -68,8 +73,9 @@
 		"/Creator": "IDIR\\SMUSIKA",
 		"/CreationDate": "20210330",
 		"/ModDate": null,
-		"/Keywords": "Licences, AAC, Forest Act, Corporate Group, Company, Forest Licences, Natural Resource Region, TSA"
-	},
+		"/Keywords": "Licences, AAC, Forest Act, Corporate Group, Company, Forest Licences, Natural Resource Region, TSA",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/APTR041SMUSIKA.pdf"
+    },
 	{
 		"id": "BCTSPERF2021",
 		"/Title": "B.C. TIMBER SALES ANNUAL PERFORMANCE REPORT APRIL 1, 2020 – MARCH 31, 2021",
@@ -78,8 +84,9 @@
 		"/Creator": "BC Timber Sales (BCTS)",
 		"/CreationDate": "20210331",
 		"/ModDate": null,
-		"/Keywords": "Annual Performance, BC Timber Sales, BCTS, Ministry of Forests, Lands, Natural Resource Operations and Rural Development, Timber Harvesting, Reforestation, Sustainable Resource Management, Economic Prosperity, Business Excellence, Market Pricing System, MPS"
-	},
+		"/Keywords": "Annual Performance, BC Timber Sales, BCTS, Ministry of Forests, Lands, Natural Resource Operations and Rural Development, Timber Harvesting, Reforestation, Sustainable Resource Management, Economic Prosperity, Business Excellence, Market Pricing System, MPS",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTSPERF2021.pdf"
+    },
 	{
 		"id": "BCTSPERF2022",
 		"/Title": "B.C. TIMBER SALES ANNUAL PERFORMANCE REPORT APRIL 1, 2021 – MARCH 31, 2022",
@@ -88,8 +95,9 @@
 		"/Creator": "BC Timber Sales (BCTS)",
 		"/CreationDate": "20220331",
 		"/ModDate": null,
-		"/Keywords": "Annual Performance, BC Timber Sales, BCTS, Ministry of Forests, Timber Harvesting, Reforestation, Sustainable Resource Management, Economic Prosperity, Business Excellence, Market Pricing System, MPS, Old Growth Strategy"
-	},
+		"/Keywords": "Annual Performance, BC Timber Sales, BCTS, Ministry of Forests, Timber Harvesting, Reforestation, Sustainable Resource Management, Economic Prosperity, Business Excellence, Market Pricing System, MPS, Old Growth Strategy",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTSPERF2022.pdf"
+    },
 	{
 		"id": "BCTSCLIMACTSTRAT",
 		"/Title": "B.C. TIMBER SALES Climate Change Action Strategy",
@@ -98,8 +106,9 @@
 		"/Creator": "BC Timber Sales (BCTS)",
 		"/Keywords": "Climate Change, Action Strategy, BC Timber Sales, BCTS, Sustainable Forest Management, Climate Adaptation, Innovation, Communication, Collaboration, LEAN, Policy Direction",
 		"/CreationDate": "20150202",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTSCLIMACTSTRAT.pdf"
+    },
 	{
 		"id": "BCTS2021Report",
 		"/Title": "BCTS BC Timber Sales Environmental Stewardship and Sustainability Report: Sustainably Managed Forests for the Benefit of all British Columbians",
@@ -108,8 +117,9 @@
 		"/Creator": "BC Timber Sales (BCTS)",
 		"/Keywords": "BC Timber Sales, Environmental Stewardship, Sustainability, Sustainable Forest Management, British Columbians",
 		"/ModDate": null,
-		"/CreationDate": "202104"
-	},
+		"/CreationDate": "202104",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTS2021Report.pdf"
+    },
 	{
 		"id": "BCTS202225PLAN",
 		"/Title": "BCTS BC Timber Sales BUSINESS PLAN 2022/23 – 2024/25",
@@ -118,8 +128,9 @@
 		"/Creator": "BC Timber Sales (BCTS)",
 		"/Keywords": "BC Timber Sales, Business Plan, Ministry of Forests, Sustainable Forest Management, Timber Harvesting, Market Pricing System, Reforestation",
 		"/ModDate": null,
-		"/CreationDate": "20220725"
-	},
+		"/CreationDate": "20220725",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTS202225PLAN.pdf"
+    },
 	{
 		"id": "2019BILL21BCFPA",
 		"/Title": "BILL 21 – 2019: FOREST AND RANGE PRACTICES AMENDMENT ACT, 2019",
@@ -128,8 +139,9 @@
 		"/Creator": "Legislative Assembly of the Province of British Columbia",
 		"/Keywords": "Forest Stewardship Plan, Amendment Act, Ecological Community, Operational Plan, Wildlife Act",
 		"/ModDate": null,
-		"/CreationDate": "20190516"
-	},
+		"/CreationDate": "20190516",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2019BILL21BCFPA.pdf"
+    },
 	{
 		"id": "BTSA2011TSRDP",
 		"/Title": "Boundary Timber Supply Area Timber Supply Review Data Package June 2011",
@@ -138,8 +150,9 @@
 		"/Creator": "Tara DeCourcy, Stewardship Officer, Selkirk Resource District, Ministry of Forests, Lands, and Natural Resource Operations",
 		"/Keywords": "Timber Supply, Boundary Timber Supply Area, Forest Management, Data Package, Timber Supply Review, Timber Analysis, Base case harvest forecast, Current management",
 		"/ModDate": null,
-		"/CreationDate": "201106"
-	},
+		"/CreationDate": "201106",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BTSA2011TSRDP.pdf"
+    },
 	{
 		"id": "BoundTSA2013PDP",
 		"/Title": "Boundary TSA Timber Supply Analysis Public Discussion Paper",
@@ -148,8 +161,9 @@
 		"/Creator": "Ministry of Forests, Lands and Natural Resource Operations",
 		"/Keywords": "Boundary TSA, Timber Supply, Ministry of Forests, Lands and Natural Resource Operations, Allowable Annual Cut, Forest Management, Public Discussion Paper",
 		"/ModDate": null,
-		"/CreationDate": "201307"
-	},
+		"/CreationDate": "201307",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BoundTSA2013PDP.pdf"
+    },
 	{
 		"id": "BC2014AACRatnl",
 		"/Title": "Boundary Timber Supply Area Rationale for Allowable Annual Cut (AAC) Determination",
@@ -158,8 +172,9 @@
 		"/Creator": "Diane Nicholls, RPF, Deputy Chief Forester",
 		"/Keywords": "British Columbia, Allowable Annual Cut, Timber Supply Area, Forest Act, Crown forest land base, timber harvesting land base, First Nations",
 		"/ModDate": null,
-		"/CreationDate": "20140522"
-	},
+		"/CreationDate": "20140522",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BC2014AACRatnl.pdf"
+    },
 	{
 		"id": "BCF20230307BSM",
 		"/Title": "Bridge Standards Manual",
@@ -168,8 +183,9 @@
 		"/Creator": "BC Ministry of Forests",
 		"/Keywords": "Bridge, Standards, Manual, BC Ministry of Forests, Forest Service Roads, Guidelines, Specifications, Requirements",
 		"/ModDate": null,
-		"/CreationDate": "20230307"
-	},
+		"/CreationDate": "20230307",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCF20230307BSM.pdf"
+    },
 	{
 		"id": "CPRoadTenure2020",
 		"/Title": "Cutting Permit and Road Tenure Administration Manual",
@@ -178,8 +194,9 @@
 		"/Creator": "BC Ministry of Forests",
 		"/Keywords": "Cutting Permits, Road Tenures, Administration, Ministry, Legislation, Policy, Forest Tenures Branch",
 		"/ModDate": null,
-		"/CreationDate": "202009"
-	},
+		"/CreationDate": "202009",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/CPRoadTenure2020.pdf"
+    },
 	{
 		"id": "FPCOBCA20040131",
 		"/Title": "FOREST PRACTICES CODE OF BRITISH COLUMBIA ACT",
@@ -188,8 +205,9 @@
 		"/Creator": "Quickscribe Services Ltd.",
 		"/Keywords": "FOREST PRACTICES CODE, BRITISH COLUMBIA ACT, Quickscribe Services Ltd., Evidence Act of British Columbia, 2003 Bill 76 amendments",
 		"/ModDate": null,
-		"/CreationDate": "20040131"
-	},
+		"/CreationDate": "20040131",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FPCOBCA20040131.pdf"
+    },
 	{
 		"id": "FOR202106ANALYSIS",
 		"/Title": "Provincial Guide for the preparation of Information Packages and Analysis Reports for Area-based Tenures",
@@ -198,8 +216,9 @@
 		"/Creator": "Forest Tenures Branch, Forest Analysis & Inventory Branch",
 		"/Keywords": "Tenure Holders, Tree Farm Licences, Community Forest Agreements, First Nations Woodland Licences, Timber Supply Analysis, Management Plan, Allowable Annual Cut",
 		"/ModDate": null,
-		"/CreationDate": "202106"
-	},
+		"/CreationDate": "202106",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FOR202106ANALYSIS.pdf"
+    },
 	{
 		"id": "WASTASSESS2021",
 		"/Title": "Waste Assessments Policy",
@@ -208,8 +227,9 @@
 		"/Creator": "Associate Deputy Minister",
 		"/Keywords": "Waste Assessments, Waste Relief, Merchantable Crown Timber, Primary logging, Timber harvesting, Reserved, Waste Measurement Procedures, Avoidable Waste, Unavoidable Waste",
 		"/ModDate": null,
-		"/CreationDate": "20210401"
-	},
+		"/CreationDate": "20210401",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/WASTASSESS2021.pdf"
+    },
 	{
 		"id": "FREP202021202223",
 		"/Title": "FREP Forest & Range Evaluation Program THREE-YEAR STRATEGIC PLAN 2020/21 to 2022/23",
@@ -218,8 +238,9 @@
 		"/Creator": "Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
 		"/Keywords": "Strategic Plan, Forest and Range Evaluation Program, FREP, Natural Resource Management, Sustainable Forest and Range Practices, Indigenous Reconciliation, Data Improvement, Integrated Monitoring, British Columbia",
 		"/ModDate": null,
-		"/CreationDate": "20200810"
-	},
+		"/CreationDate": "20200810",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FREP202021202223.pdf"
+    },
 	{
 		"id": "BCFSPAG20090801Vol1",
 		"/Title": "Administrative Guide for Forest Stewardship Plans (FSPs) Volume I Preparation and Approval of an FSP",
@@ -228,8 +249,9 @@
 		"/Creator": "British Columbia Ministry of Forests and Range, Resource Tenures and Engineering Branch",
 		"/Keywords": "Forest Stewardship Plans, FSP, B.C. Ministry of Forests and Range, Forest and Range Practices Act, agreement-holders",
 		"/ModDate": null,
-		"/CreationDate": "20090801"
-	},
+		"/CreationDate": "20090801",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFSPAG20090801Vol1.pdf"
+    },
 	{
 		"id": "BCFSPAG20090801Vol2",
 		"/Title": "Administrative Guide for Forest Stewardship Plans (FSPs) Volume II Operating Under an Approved FSP Version 1.1a",
@@ -238,8 +260,9 @@
 		"/Creator": "British Columbia Ministry of Forests and Range",
 		"/Keywords": "Administrative Guide, Forest Stewardship Plan, FSP, Volume II, FRPA, Approved FSP, Forest and Range Practices Act, Forest Planning and Practices Regulation",
 		"/ModDate": "20080725",
-		"/CreationDate": "201003"
-	},
+		"/CreationDate": "201003",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFSPAG20090801Vol2.pdf"
+    },
 	{
 		"id": "BCInterAppManu2022A3",
 		"/Title": "TIMBER PRICING BRANCH Interior Appraisal Manual Effective July 1, 2022 Cost Base of: 2020 - Amendment No. 3",
@@ -248,8 +271,9 @@
 		"/Creator": "Ministry of Forests",
 		"/Keywords": "Interior Appraisal Manual, British Columbia Government, Timber Pricing, Amendment, Stumpage",
 		"/ModDate": "20230501",
-		"/CreationDate": "20220701"
-	},
+		"/CreationDate": "20220701",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCMapTerSta1999.pdf"
+    },
 	{
 		"id": "2017FiresCariboo",
 		"/Title": "Impacts of 2017 Fires on Timber Supply in the Cariboo Region",
@@ -258,8 +282,9 @@
 		"/Creator": "British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
 		"/Keywords": "2017 Fires, Timber Supply, Cariboo Region, British Columbia, Forest Analysis, Inventory Branch, Timber Harvesting Land Base",
 		"/CreationDate": "201802",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2017FiresCariboo.pdf"
+    },
 	{
 		"id": "2018FiresBCRpt",
 		"/Title": "Impacts of 2018 Fires on Forests and Timber Supply in British Columbia",
@@ -268,8 +293,9 @@
 		"/Creator": "British Columbia Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
 		"/Keywords": "British Columbia, 2018 wildfires, timber supply, Forest Analysis, Inventory Branch",
 		"/CreationDate": "201904",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2018FiresBCRpt.pdf"
+    },
 	{
 		"id": "2021FiresBCRpt",
 		"/Title": "Impacts of 2021 Fires on Forests and Timber Supply in British Columbia",
@@ -278,8 +304,9 @@
 		"/Creator": "Ministry of Forests",
 		"/Keywords": "wildfires, 2021, British Columbia, timber supply, forest analysis, inventory, forest management, timber harvesting land base, allowable annual cut",
 		"/CreationDate": "202204",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2021FiresBCRpt.pdf"
+    },
 	{
 		"id": "CRHS202006001",
 		"/Title": "Concurrent Residual Harvest System – Interior (CRHS)",
@@ -288,8 +315,9 @@
 		"/Creator": "Timber Pricing Branch",
 		"/Keywords": "Concurrent Residual Harvest System, Interior, low quality timber, Scaling Regulation",
 		"/CreationDate": "202006",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/CRHS202006001.pdf"
+    },
 	{
 		"id": "ECEProc20220701",
 		"/Title": "Interior Engineering Cost Estimate Procedures",
@@ -298,8 +326,9 @@
 		"/Creator": "Director, Timber Pricing Branch",
 		"/Keywords": "Engineering Cost Estimate, ECE, Timber Pricing, Appraisal, Reappraisal, Road Construction, Road Reconstruction, Road Surfacing, Road Rehabilitation",
 		"/CreationDate": "20220701",
-		"/ModDate": "20220628"
-	},
+		"/ModDate": "20220628",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/ECEProc20220701.pdf"
+    },
 	{
 		"id": "2022IMPSUpdate",
 		"/Title": "Interior Market Pricing System: Update – 2022",
@@ -308,8 +337,9 @@
 		"/Creator": "Timber Pricing Branch, Ministry of Forests",
 		"/Keywords": "Interior Market Pricing System, Update 2022, Timber Pricing Branch, Ministry of Forests, Auction Dataset, Statistical Equations",
 		"/CreationDate": "20220701",
-		"/ModDate": "20220701"
-	},
+		"/ModDate": "20220701",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2022IMPSUpdate.pdf"
+    },
 	{
 		"id": "BCITIMBPR201607",
 		"/Title": "Interior Timber Pricing Training Modules 1 – 5",
@@ -318,8 +348,9 @@
 		"/Creator": "Timber Pricing Branch, FLNR",
 		"/Keywords": "Timber Pricing, Training Modules, Professional Practice, Appraisal Submission, ECAS, Timber Pricing Policies, Interior Appraisal Manual, FLNRO",
 		"/CreationDate": "201607",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCITIMBPR201607.pdf"
+    },
 	{
 		"id": "LICENCECUTMANU",
 		"/Title": "Licence to Cut Administration Manual Version 3.1",
@@ -328,8 +359,9 @@
 		"/Creator": "FOREST TENURES BRANCH",
 		"/Keywords": "Licence to Cut, Administration Manual, Forest Act, regulation, application, issuance, administration, termination of licences, Ministry of Forests, Lands and Natural Resource Operations, provincial agencies, licensees, general public",
 		"/CreationDate": "20200402",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LICENCECUTMANU.pdf"
+    },
 	{
 		"id": "FS704PlantingQC",
 		"/Title": "Planting Quality Inspection Guide to Completing the FS 704",
@@ -338,8 +370,9 @@
 		"/Creator": "Resource Practices Branch, Ministry of Forests, Lands and Natural Resource Operations, Province of British Columbia",
 		"/Keywords": "Planting, Quality Inspection, FS 704, Tree Planting, British Columbia, Afforestation, Reforestation, Resource Practices, Planting Contractors",
 		"/CreationDate": "198005",
-		"/ModDate": "201204"
-	},
+		"/ModDate": "201204",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FS704PlantingQC.pdf"
+    },
 	{
 		"id": "2019FORHSTRAT",
 		"/Title": "2019-2022 Provincial Forest Health Strategy",
@@ -348,8 +381,9 @@
 		"/Creator": "TIM EBATA, HARRY KOPE AND BABITA BAINS",
 		"/Keywords": "Forest Health Strategy, Forest Health program, science-based information, forest health agents, insects, pathogens, wildlife, abiotic factors",
 		"/CreationDate": "20191031",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2019FORHSTRAT.pdf"
+    },
 	{
 		"id": "BCSilvicultSys2003",
 		"/Title": "Silvicultural Systems Handbook for British Columbia",
@@ -358,8 +392,9 @@
 		"/Creator": "Ministry of Forests, Forest Practices Branch, Victoria, British Columbia",
 		"/Keywords": "Silviculture, Silvicultural Systems, British Columbia, Ministry of Forests, Forest Practices Branch, Partial Cutting Systems, Forestry",
 		"/CreationDate": "200303",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCSilvicultSys2003.pdf"
+    },
 	{
 		"id": "GYP199102BCMF",
 		"/Title": "GROWTH AND YIELD PREDICTION SYSTEMS - FEBRUARY 1991",
@@ -367,9 +402,10 @@
 		"/Subject": "The Ministry of Forests is responsible for managing the forest resource to maximize the immediate and long-run social and economic benefits for all British Columbians. This report briefly describes the growth and yield prediction systems in use for forest management planning within the Ministry.",
 		"/Creator": "T.M. Thomson & Associates Ltd.",
 		"/Keywords": "Ministry of Forests, Growth, Yield, Prediction Systems, Forest Management",
-		"/CreationDate": 199102,
-		"/ModDate": null
-	},
+		"/CreationDate": "199102",
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/GYP199102BCMF.pdf"
+    },
 	{
 		"id": "BCFSPGuidance16",
 		"/Title": "Guidance on the Replacement of Forest Stewardship Plans",
@@ -378,8 +414,9 @@
 		"/Creator": "Office of the Chief Forester",
 		"/Keywords": "Forest Stewardship Plans, Minister’s delegated decision-makers, Forest and Range Practices Act, FSP quality, FSP effectiveness, provincial consistency, management of FSP expiries",
 		"/CreationDate": "201603",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFSPGuidance16.pdf"
+    },
 	{
 		"id": "BC202104TSRBCK",
 		"/Title": "Timber Supply Review Backgrounder",
@@ -387,9 +424,10 @@
 		"/Subject": "This document reviews the Timber Supply Review (TSR) program initiated in British Columbia in 1992 to update understanding of timber supply in various timber supply areas and tree farm licenses. It discusses the concept of Allowable Annual Cut (AAC) as determined by the Chief Forester and explains the process, objectives, and considerations involved in TSR.",
 		"/Creator": "British Columbia's Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
 		"/Keywords": "Timber Supply Review, Allowable Annual Cut, Chief Forester, British Columbia, Timber Supply Areas, Tree Farm Licenses, Minister of Forests, Lands, Natural Resource Operations and Rural Development",
-		"/CreationDate": 202104,
-		"/ModDate": null
-	},
+		"/CreationDate": "202104",
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BC202104TSRBCK.pdf"
+    },
 	{
 		"id": "TSR20230611AAC",
 		"/Title": "Timber Supply Review (TSR) Document Descriptions",
@@ -398,8 +436,9 @@
 		"/Creator": "Forest Analysis and Inventory Branch (FAIB)",
 		"/Keywords": "Timber Supply Review, Allowable Annual Cut, Chief Forester, British Columbia, Timber Supply Areas, Tree Farm Licenses, Minister of Forests, Lands, Natural Resource Operations and Rural Development",
 		"/CreationDate": null,
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/TSR20230611AAC.pdf"
+    },
 	{
 		"id": "BC2016TimbRev",
 		"/Title": "Timber Supply Review Timber Supply Areas",
@@ -408,8 +447,9 @@
 		"/Creator": "Forest Analysis and Inventory Branch",
 		"/Keywords": "Timber Supply Review, Timber Supply Areas, BC, Allowable Annual Cuts, Timber Supply, Chief Forester, Forest Management",
 		"/CreationDate": "201611",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BC2016TimbRev.pdf"
+    },
 	{
 		"id": "BCTimberReviewTFL",
 		"/Title": "Timber Supply Review Tree Farm Licences",
@@ -418,8 +458,9 @@
 		"/Creator": "Ministry of Forests, Lands and Natural Resource Operations",
 		"/Keywords": "Timber Supply Review, Tree Farm Licences, British Columbia, Allowable Annual Cuts, Forest Act, Ministry of Forests, Lands and Natural Resource Operations, economic, environmental, social information",
 		"/CreationDate": "201611",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCTimberReviewTFL.pdf"
+    },
 	{
 		"id": "FISP201302FLNRO",
 		"/Title": "Forest Inventory Strategic Plan",
@@ -428,8 +469,9 @@
 		"/Creator": "Ministry of Forests, Lands and Natural Resource Operations",
 		"/Keywords": "forest inventory, strategic plan, natural resource operations, economic prosperity",
 		"/CreationDate": "201302",
-		"/ModDate": null
-	},
+		"/ModDate": null,
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FISP201302FLNRO.pdf"
+    },
 	{
 		"id": "FRPRACTBC14004",
 		"/Title": "Forest and Range Practices Act FOREST PLANNING AND PRACTICES REGULATION",
@@ -438,8 +480,9 @@
 		"/Creator": "Office of Legislative Counsel, Ministry of Attorney General, Victoria, B.C.",
 		"/Keywords": "Forest and Range Practices Act, FOREST PLANNING AND PRACTICES REGULATION",
 		"/CreationDate": "20040131",
-		"/ModDate": "20230213"
-	},
+		"/ModDate": "20230213",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FRPRACTBC14004.pdf"
+    },
 	{
 		"id": "FORREVACT200317",
 		"/Title": "FORESTRY REVITALIZATION ACT [SBC 2003] CHAPTER 17",
@@ -448,8 +491,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Forestry, Legislative Changes, BC Forestry Revitalization Trust, Crown land, Harvesting rights, Minister's orders, Timber licence, Allowable annual cut",
 		"/CreationDate": "20030331",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FORREVACT200317.pdf"
+    },
 	{
 		"id": "FORACTBC1996157",
 		"/Title": "FOREST ACT [RSBC 1996] CHAPTER 157",
@@ -458,8 +502,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Forest, British Columbia, Legislation, Timber, Licence, Timber Supply, Management, Conservation, Sustainable Development, Crown Land, Rights to Crown timber, Forest Licence, Tree Farm Licences, Timber Sale Licences",
 		"/CreationDate": "1996",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FORACTBC1996157.pdf"
+    },
 	{
 		"id": "BC2000ActCH17",
 		"/Title": "PROTECTED AREAS OF BRITISH COLUMBIA ACT [SBC 2000] CHAPTER 17",
@@ -468,8 +513,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Protected Areas, British Columbia, Ecological Reserves, Parks, Conservancies, Legislation",
 		"/CreationDate": "20000629",
-		"/ModDate": "20230426"
-	},
+		"/ModDate": "20230426",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BC2000ActCH17.pdf"
+    },
 	{
 		"id": "OFFROADVEHICLEACT",
 		"/Title": "OFF-ROAD VEHICLE ACT [SBC 2014] CHAPTER 5",
@@ -478,8 +524,9 @@
 		"/Creator": "The Legislative Assembly of British Columbia",
 		"/Keywords": "Off-Road Vehicle, Crown Land, Regulations, Officer, Private Land, Vehicle Identification Number",
 		"/CreationDate": "20140324",
-		"/ModDate": "20230329"
-	},
+		"/ModDate": "20230329",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/OFFROADVEHICLEACT.pdf"
+    },
 	{
 		"id": "2018BC47ProfGov",
 		"/Title": "PROFESSIONAL GOVERNANCE ACT [SBC 2018] CHAPTER 47",
@@ -488,8 +535,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Professional Governance, Superintendent, Regulatory Bodies, Registrants, Public Interest",
 		"/CreationDate": "20181127",
-		"/ModDate": "20230531"
-	},
+		"/ModDate": "20230531",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/2018BC47ProfGov.pdf"
+    },
 	{
 		"id": "PAAFCA20025151",
 		"/Title": "PROTECTED AREAS FORESTS COMPENSATION ACT [SBC 2002] CHAPTER 51",
@@ -498,8 +546,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Protected Areas, Forests, Compensation Act, Legislative Changes, SBC 2002, CHAPTER 51, Forest Act, Protected Area, Annual Cut Reduction",
 		"/CreationDate": "20020530",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/PAAFCA20025151.pdf"
+    },
 	{
 		"id": "RANGEACTSBC2004",
 		"/Title": "RANGE ACT [SBC 2004] CHAPTER 71",
@@ -508,8 +557,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Range Act, Crown Range, Licences, Permits, Grazing, Livestock, British Columbia, Legislation",
 		"/CreationDate": "20041021",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/RANGEACTSBC2004.pdf"
+    },
 	{
 		"id": "RIPA97021CH21",
 		"/Title": "RIPARIAN AREAS PROTECTION ACT [SBC 1997] CHAPTER 21",
@@ -518,8 +568,9 @@
 		"/Creator": "British Columbia Legislative Council",
 		"/Keywords": "Riparian Areas, Protection Act, Directives, Local Government, Land Use, Bylaws, Zoning, British Columbia",
 		"/CreationDate": "19970728",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/RIPA97021CH21.pdf"
+    },
 	{
 		"id": "WATERACTSBC2014",
 		"/Title": "WATER SUSTAINABILITY ACT [SBC 2014] CHAPTER 15",
@@ -528,8 +579,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Water Sustainability, Act, Legislative Assembly, British Columbia, Water Protection, Licensing, Enforcement",
 		"/CreationDate": "20140529",
-		"/ModDate": "20230329"
-	},
+		"/ModDate": "20230329",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/WATERACTSBC2014.pdf"
+    },
 	{
 		"id": "WILDACT200431BC",
 		"/Title": "WILDFIRE ACT [SBC 2004] CHAPTER 31",
@@ -538,8 +590,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Wildfire Act, British Columbia, Fire control, Administrative remedies, Cost recovery, Offences, Court orders",
 		"/CreationDate": "20040429",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/WILDACT200431BC.pdf"
+    },
 	{
 		"id": "SBC2009CHAP18",
 		"/Title": "WOOD FIRST ACT [SBC 2009] CHAPTER 18",
@@ -548,8 +601,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Wood First Act, Building Act, provincially funded buildings, use of wood, building regulations",
 		"/CreationDate": "20091029",
-		"/ModDate": "20230510"
-	},
+		"/ModDate": "20230510",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/SBC2009CHAP18.pdf"
+    },
 	{
 		"id": "TIMBCRUIMAN2020",
 		"/Title": "TIMBER PRICING BRANCH Cruising Manual",
@@ -558,8 +612,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "TIMBER PRICING BRANCH, Cruising Manual, British Columbia Government, stumpage appraisal, Crown timber, Ministry of Forests, Lands, Natural Resource Operations, and Rural Development",
 		"/CreationDate": "20200701",
-		"/ModDate": "20210701"
-	},
+		"/ModDate": "20210701",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/TIMBCRUIMAN2020.pdf"
+    },
 	{
 		"id": "PLRWMPM20190401",
 		"/Title": "Provincial Logging Residue and Waste Measurement Procedures Manual – Interior Version",
@@ -568,8 +623,9 @@
 		"/Creator": "Government of British Columbia",
 		"/Keywords": "Provincial Logging Residue, Waste Measurement Procedures, Interior Version, British Columbia Government, Forest Act, Waste Assessment, Timber Pricing, Harvest Crown Timber, Cutblock",
 		"/CreationDate": "20190401",
-		"/ModDate": "20221121"
-	},
+		"/ModDate": "20221121",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/PLRWMPM20190401.pdf"
+    },
 	{
 		"id": "ScalingManualBCI",
 		"/Title": "BC Interior Scaling Manual",
@@ -578,8 +634,9 @@
 		"/Creator": "British Columbia Government, Ministry of Forests, Lands and Natural Resource Operations, Timber Pricing Branch",
 		"/Keywords": "Scaling, Timber, British Columbia Government, Forest Act, Scaling Regulation, Ministry of Forests, Lands and Natural Resource Operations, Timber Pricing Branch",
 		"/CreationDate": "20111101",
-		"/ModDate": "20211115"
-	},
+		"/ModDate": "20211115",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/ScalingManualBCI.pdf"
+    },
 	{
 		"id": "HBSGuide20080201",
 		"/Title": "HBS Industry Reference Guide",
@@ -588,8 +645,416 @@
 		"/Creator": "Ministry of Forests and Range",
 		"/Keywords": "HBS, Harvest Billing System, scale return data, Ministry of Forests and Range, British Columbia Government",
 		"/CreationDate": "20080201",
-		"/ModDate": "20080201"
-	}
+		"/ModDate": "20080201",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/HBSGuide20080201.pdf"
+    },
+	{
+        "id": "ENG2018MANUAL",
+        "/Title": "Engineering Manual",
+        "/Author": "Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
+        "/Subject": "The 2018 Engineering Manual provides policy and guidance related to forest resource road and bridge administration, design, construction, maintenance and deactivation activities funded by the Ministry. It includes policy direction on implementation of legislation and regulations, mandatory procedures, project checklists, business practices, and best practice technical and professional practices throughout MFLNRO.",
+        "/Creator": "Engineering Branch, Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
+        "/CreationDate": "20180801",
+        "/ModDate": "20180801",
+        "/Keywords": "Engineering Manual, Ministry of Forests, Lands, Natural Resource Operations, Rural Development, engineering practices, forest resource road, bridge administration, design, construction, maintenance, deactivation, legislation, regulations, mandatory procedures, project checklists, business practices, professional reliance, technical practices, professional practices, MFLNRO",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/ENG2018MANUAL.pdf"
+    },
+    {
+        "id": "BCAccessMgmt2001",
+        "/Title": "ACCESS MANAGEMENT IN BRITISH COLUMBIA: A PROVINCIAL OVERVIEW",
+        "/Author": "Ministry of Environment, Lands and Parks",
+        "/Subject": "This document discusses the proliferation of access over the past four decades leading to public and resource-related issues in British Columbia, focusing on the increasing use of forest roads and adjacent forest lands. It outlines the impacts on ecosystems, fish and wildlife populations and their habitats, and recreational experiences. It details various regional and district level initiatives to manage these issues, and the role of different ministries and legislation in this process.",
+        "/Creator": "Dennis Hamilton, Steven Wilson, Nanuq Consulting Ltd., EcoLogic Research",
+        "/CreationDate": "20010331",
+        "/ModDate": "None",
+        "/Keywords": "Access Management, British Columbia, Ministry of Environment, Lands and Parks, Forest Road Network, Vehicular Access Hunting Closures, Co-ordinated Access Management Planning, Forest Practices Code",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCAccessMgmt2001.pdf"
+    },
+    {
+        "id": "BCFGGBCAR2000V24",
+        "/Title": "Establishment to Free Growing Guidebook: Cariboo Forest Region",
+        "/Author": "Ministry of Environment, BRITISH COLUMBIA, Ministry of Forests",
+        "/Subject": "This guidebook provides information and recommendations to help forest resource managers plan, prescribe, and implement forest practices in compliance with the Forest Practices Code. It covers stocking standards, pruning height requirements, and the need for professional judgement in developing site-specific management strategies and prescriptions.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "200005",
+        "/ModDate": "200710",
+        "/Keywords": "Forestry, Forest Practices Code, Silviculture Practices, Forest Management, Reforestation",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFGGBCAR2000V24.pdf"
+    },
+    {
+        "id": "BCFGGKAM2002V22",
+        "/Title": "Establishment to Free Growing Guidebook: Kamloops Forest Region",
+        "/Author": "Authority, Forest Practices Code of British Columbia Act, Operational Planning Regulation, Strategic Planning Regulation, Silviculture Practices Regulation",
+        "/Subject": "This guidebook is intended to assist in planning, prescribing, and implementing forest practices in line with the Forest Practices Code. It is a resource for creating site-specific management strategies, including optional practices for different circumstances. It also states that once a recommended practice is included in a plan, prescription, or contract, it becomes legally enforceable.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "200201",
+        "/ModDate": "200710",
+        "/Keywords": "Forest Practices Code, Forest Management, Silviculture Practices, Operational Planning, Strategic Planning",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFGGKAM2002V22.pdf"
+    },
+    {
+        "id": "BCFGGNEL2000V23",
+        "/Title": "Establishment to Free Growing Guidebook: Nelson Forest Region",
+        "/Author": "BC Environment, BRITISH COLUMBIA, Ministry of Forests",
+        "/Subject": "This guidebook provides guidance for forest resource managers to plan, prescribe, and implement sound forest practices that comply with the Forest Practices Code. It covers stocking standards, pruning height requirements, and emphasizes the use of professional judgement in developing site-specific management strategies and prescriptions.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "200005",
+        "/ModDate": "200710",
+        "/Keywords": "Forestry, Forest Practices Code, Silviculture Practices, Forest Management, Reforestation",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFGGNEL2000V23.pdf"
+    },
+    {
+        "id": "BCForestCode2001",
+        "/Title": "Forest Practices Code of BRITISH COLUMBIA - Forest Development Plan Guidebook",
+        "/Author": "British Columbia. Ministry of Forests",
+        "/Subject": "This guidebook is a part of the Forest Practices Code. It provides support to regulations and describes procedures, practices, and results that align with the legislated requirements of the Code. It is intended to assist users in exercising professional judgement for developing site-specific management strategies and prescriptions to align with resource management objectives.",
+        "/Creator": "Province of British Columbia",
+        "/CreationDate": "200112",
+        "/ModDate": null,
+        "/Keywords": "Forest Practices Code, British Columbia, Forest Management, Planning, Guidebook",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForestCode2001.pdf"
+    },
+    {
+        "id": "BC1998FishGuide",
+        "/Title": "Forest Practices Code of BRITISH COLUMBIA Fish-stream Identification Guidebook Second edition Version 2.1",
+        "/Author": "British Columbia Ministry of Forests",
+        "/Subject": "This guidebook has been prepared to help forest resource managers plan, prescribe and implement sound forest practices that comply with the Forest Practices Code.",
+        "/Creator": "British Columbia Ministry of Forests",
+        "/CreationDate": "199808",
+        "/ModDate": null,
+        "/Keywords": "Forest Practices Code, British Columbia, Fish-stream Identification, Guidebook, Second edition, Version 2.1",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BC1998FishGuide.pdf"
+    },
+    {
+        "id": "BCForRoadGuide02",
+        "/Title": "Forest Practices Code of British Columbia: Forest Road Engineering Guidebook, Second edition",
+        "/Author": "Ministry of Forests of British Columbia",
+        "/Subject": "This guidebook provides forest road practitioners with advice on road design and field practices to assist them to achieve the statutory and regulatory requirements in the Forest Practices Code of British Columbia Act, the Forest Road Regulation, and the Operational Planning Regulation.",
+        "/Creator": "Ministry of Forests of British Columbia",
+        "/CreationDate": "200206",
+        "/ModDate": "200206",
+        "/Keywords": "Forest Practices Code, British Columbia, Forest Road Engineering, Road Design, Forest Road Regulation, Operational Planning Regulation",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForRoadGuide02.pdf"
+    },
+    {
+        "id": "BCFGAPGuide2001",
+        "/Title": "Forest Practices Code of British Columbia: Gully Assessment Procedure Guidebook, Fourth edition, Version 4.1",
+        "/Author": "Ministry of Forests of British Columbia",
+        "/Subject": "This guidebook provides procedures and recommendations for forest resource managers to plan, prescribe and implement sound forest practices that comply with the Forest Practices Code. It includes details on gully assessment procedure (GAP) intended to help evaluate gully systems for road crossings, cutblock layout, gully system rehabilitation, and road deactivation of the crossings, especially on the Coast. While the GAP provides a framework for managing gully systems during and after harvesting, a thorough assessment by a qualified registered professional may still be required in situations posing substantial hazard.",
+        "/Creator": "British Columbia Ministry of Forests",
+        "/CreationDate": "200102",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices Code, Gully Assessment Procedure, GAP, Forestry Operations, Road Crossings, Cutblock Layout, Gully System Rehabilitation, Road Deactivation, British Columbia, Ministry of Forests, Forest Management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCFGAPGuide2001.pdf"
+    },
+    {
+        "id": "BCForestHealth02",
+        "/Title": "Generic Forest Health Surveys Guidebook, Second edition",
+        "/Author": "Ministry of Forests of British Columbia",
+        "/Subject": "This guidebook provides comprehensive guidance on conducting forest health surveys and developing site-specific management strategies in British Columbia. It targets forest resource managers and aims to ensure compliance with the Forest Practices Code.",
+        "/Creator": "Ministry of Forests of British Columbia",
+        "/CreationDate": "200102",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices Code, Forest Health Surveys, Guidebook, Forest Ecosystems, Forest Practices, Forest Management, Resource Management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForestHealth02.pdf"
+    },
+    {
+        "id": "BCOldForestRprt",
+        "/Title": "Accounting for old forests: a methodology for assessing the economic benefits of retaining old forests in B.C. VOLUME I Main Report",
+        "/Author": "Biodiversity Branch, Ministry of Water, Land and Air Protection, Province of British Columbia",
+        "/Subject": "The document provides a comprehensive review of approaches and methodologies to assess the economic contribution of intact old forests to society's economic well-being. It also suggests a pragmatic valuation methodology to assess the economic value of old forests to improve land-use decisions involving them.",
+        "/Creator": "Tom L. Green, M.A., Ecological Economist",
+        "/CreationDate": "2002",
+        "/ModDate": null,
+        "/Keywords": "old forests, economic benefits, Biodiversity Branch, Ministry of Water, Land and Air Protection, British Columbia, economic value, land-use decisions, ecosystem goods, services, non-market valuation, valuation matrix",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCOldForestRprt.pdf"
+    },
+    {
+        "id": "BCForestCodeGreen",
+        "/Title": "Green-up Guidebook, Second edition",
+        "/Author": "British Columbia. Ministry of Forests",
+        "/Subject": "This guidebook has been prepared to help forest resource managers plan, prescribe and implement sound forest practices that comply with the Forest Practices Code. Guidebooks are one of the four components of the Forest Practices Code. They describe procedures, practices and results that are consistent with the legislated requirements of the Code.",
+        "/Creator": "Province of British Columbia",
+        "/CreationDate": "199901",
+        "/ModDate": null,
+        "/Keywords": "Forest Practices Code, British Columbia, reforestation, forest management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForestCodeGreen.pdf"
+    },
+    {
+        "id": "BCForestPracHazard",
+        "/Title": "Forest Practices Code of British Columbia: Hazard Assessment Keys for Evaluating Site Sensitivity to Soil Degrading Processes Guidebook, Second Edition, Version 2.1",
+        "/Author": "BC Ministry of Forests, Province of British Columbia",
+        "/Subject": "This guidebook has been prepared to help forest resource managers plan, prescribe and implement sound forest practices that comply with the Forest Practices Code. These regulations require that the procedures to determine the risk of sediment delivery to streams, the soil compaction hazard, the soil displacement hazard and the soil erosion hazard are carried out in accordance with the procedures in the guidebook.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "199903",
+        "/ModDate": "199903",
+        "/Keywords": "Forest Practices Code, British Columbia, Hazard Assessment, Soil Degrading Processes, Guidebook, Operational Planning Regulation, Woodlot License Forest Management Regulation, Sediment Delivery, Soil Compaction Hazard, Soil Displacement Hazard, Soil Erosion Hazard",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForestPracHazard.pdf"
+    },
+    {
+        "id": "MNGRTDIS201804",
+        "/Title": "Managing Root Disease in British Columbia",
+        "/Author": "Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
+        "/Subject": "This document provides a comprehensive description of the objectives and scope of root disease management in British Columbia. It provides science-based survey and treatment options that are applied consistently across the province to support sustainable reforestation, and ecosystem productivity and integrity.",
+        "/Creator": "Ministry of Forests, Lands, Natural Resource Operations and Rural Development",
+        "/CreationDate": "201804",
+        "/ModDate": null,
+        "/Keywords": "Root Disease, British Columbia, Management, Sustainable Reforestation, Ecosystem Productivity, Forest Health",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/MNGRTDIS201804.pdf"
+    },
+    {
+        "id": "BCRUG20001000",
+        "/Title": "Range Use Plan Guidebook",
+        "/Author": "Forest Practices Code of British Columbia",
+        "/Subject": "This guidebook is intended to provide guidance to forest and range managers in developing range use plans. It replaces the Range Management Guidebook 2nd edition, of September 1995. The document discusses the restructuring of range use plans in 2000, and the roles of goals, objectives, strategies, and measures in these plans.",
+        "/Creator": "British Columbia. Ministry of Forests",
+        "/CreationDate": "200010",
+        "/ModDate": null,
+        "/Keywords": "Range Use Plan, Forest Practices Code of British Columbia, Guidebook, Range management, Land use, Rural - British Columbia - Planning",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCRUG20001000.pdf"
+    },
+    {
+        "id": "BCWildfireReg38",
+        "/Title": "Wildfire Act WILDFIRE REGULATION B.C. Reg. 38/2005",
+        "/Author": "Office of Legislative Counsel, Ministry of Attorney General, Victoria, B.C.",
+        "/Subject": "Regulation 38/2005 under the Wildfire Act detailing fire prevention, fire hazard assessment and abatement, fire control, permissible open fires, and exemptions. This is a consolidated regulation provided for convenience and includes amendments in force as of September 1, 2022.",
+        "/Creator": "Consolidated Regulations of British Columbia",
+        "/CreationDate": "20050211",
+        "/ModDate": "20220330",
+        "/Keywords": "Wildfire Act, WILDFIRE REGULATION, B.C. Reg. 38/2005, Fire Prevention, Fire Control, Open Fires, Exemptions",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCWildfireReg38.pdf"
+    },
+    {
+        "id": "BCWatershedGuid",
+        "/Title": "Coastal Watershed Assessment Procedure Guidebook (CWAP), Interior Watershed Assessment Procedure Guidebook (IWAP)",
+        "/Author": "Ministry of Forests of British Columbia",
+        "/Subject": "This guidebook provides guidance to forest resource managers on planning, prescribing, and implementing sound forest practices in compliance with the Forest Practices Code. It outlines the procedures and protocols for conducting a watershed assessment for forest development plans.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "200104",
+        "/ModDate": null,
+        "/Keywords": "Watershed Assessment, Forest Practices Code, British Columbia, Coastal Watershed Assessment, Interior Watershed Assessment, Forest Development Plan",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCWatershedGuid.pdf" 
+    },
+    {
+        "id": "BCVIAGuidebook01",
+        "/Title": "Forest Practices Code of British Columbia: Visual Impact Assessment Guidebook, Second Edition Part 1",
+        "/Author": "British Columbia. Ministry of Forests, Forest Practices Branch",
+        "/Subject": "This guidebook provides managers, planners, and field staff with planning and design tools for assessing the visual impact of forest practices in scenic areas at both the landscape and stand level and within targeted social and economic constraints.",
+        "/Creator": "British Columbia. Ministry of Forests",
+        "/CreationDate": "200101",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices, Visual Impact Assessment, British Columbia, Forest Landscape Management, Forest Landscape Design, Scenic Areas, Visual Quality Objectives, Resource Management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCVIAGuidebook01.pdf"
+    },
+    {
+        "id": "BCVIAGuidebook02",
+        "/Title": "Forest Practices Code of British Columbia: Visual Impact Assessment Guidebook, Second Edition Part 2",
+        "/Author": "British Columbia. Ministry of Forests, Forest Practices Branch",
+        "/Subject": "This guidebook provides managers, planners, and field staff with planning and design tools for assessing the visual impact of forest practices in scenic areas at both the landscape and stand level and within targeted social and economic constraints.",
+        "/Creator": "British Columbia. Ministry of Forests",
+        "/CreationDate": "200101",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices, Visual Impact Assessment, British Columbia, Forest Landscape Management, Forest Landscape Design, Scenic Areas, Visual Quality Objectives, Resource Management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCVIAGuidebook02.pdf"
+    },
+    {
+        "id": "BCMapTerSta1999",
+        "/Title": "Forest Practices Code of British Columbia: Mapping and Assessing Terrain Stability Guidebook, 2nd Edition",
+        "/Author": "British Columbia Ministry of Forests",
+        "/Subject": "A guidebook providing information on mapping and assessing terrain stability. It aims to reduce the frequency and magnitude of landslides associated with forest development by presenting practical terrain stability mapping and assessment procedures. The guidebook is intended to enlighten foresters, managers and field personnel about mapping and assessment projects.",
+        "/Creator": "British Columbia Ministry of Forests",
+        "/CreationDate": "199908",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices Code, British Columbia, Terrain Stability, Mapping, Landslide Hazards, Forest Management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCMapTerSta1999.pdf"
+    },
+    {
+        "id": "BCForCodeStndMngPre",
+        "/Title": "Forest Practices Code of British Columbia Stand Management Prescription Guidebook Second edition",
+        "/Author": "B.C. Ministry of Forests",
+        "/Subject": "This guidebook has been prepared to help forest resource managers plan, prescribe and implement sound forest practices that comply with the Forest Practices Code. It provides recommendations and procedures for stand management prescriptions (SMPs) to ensure resource values are maintained or enhanced, including biological diversity, and set out a series of stand management activities to produce a stand capable of meeting the stated management objectives.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "199903",
+        "/ModDate": "None",
+        "/Keywords": "",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCForCodeStndMngPre.pdf"
+    },
+    {
+        "id": "FPCSoilConsGuideBC",
+        "/Title": "Forest Practices Code of British Columbia Soil Conservation Guidebook 2nd Edition May 2001",
+        "/Author": "British Columbia. Ministry of Forests",
+        "/Subject": "This guidebook is prepared to assist forest resource managers in planning, prescribing, and implementing sound forest practices in compliance with the Forest Practices Code. It provides recommendations and procedures to help users develop site-specific management strategies and prescriptions to accommodate resource management objectives.",
+        "/Creator": "British Columbia. Ministry of Forests",
+        "/CreationDate": "200105",
+        "/ModDate": "None",
+        "/Keywords": "Forest Practices Code, Soil Conservation, British Columbia, Guidebook, Forest resource management, Soil disturbance, Forest practices",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FPCSoilConsGuideBC.pdf"
+    },
+    {
+        "id": "FPCSoilConSur2001",
+        "/Title": "Soil Conservation Surveys Guidebook 2nd Edition",
+        "/Author": "B.C. Ministry of Forests",
+        "/Subject": "This guidebook describes procedures for measuring disturbance to soil caused by forest practices. It is intended to help forest resource managers plan, prescribe, and implement sound forest practices that comply with the Forest Practices Code. It also provides details on visual inspections, road traverse surveys, landing surveys, and transect surveys for small and large areas.",
+        "/Creator": "B.C. Ministry of Forests",
+        "/CreationDate": "200105",
+        "/ModDate": null,
+        "/Keywords": "Soil Conservation, Forest Practices Code, Forest Practices, Surveys, Disturbance",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/FPCSoilConSur2001.pdf"
+    },
+    {
+        "id": "LMH71EcoClassSouthBC",
+        "/Title": "Land Management Handbook 71: A Field Guide to Ecosystem Classification and Identification for Southeast British Columbia The East Kootenay",
+        "/Author": "B.C. Ministry of Forests, Lands, Natural Resource Operations and Rural Development, Kootenay–Boundary Region, Nelson, B.C.",
+        "/Subject": "This field guide presents site classification and identification information for ecosystems of the East Kootenay, following the Biogeoclimatic Ecosystem Classification (BEC) system. It is part of a four-volume series for southeast British Columbia that updates the biogeoclimatic and site classification previously published for the former Nelson Forest Region.",
+        "/Creator": "Deb MacKillop, Audrey Ehman, Kristi Iverson, and Evan McKenzie",
+        "/CreationDate": "2018",
+        "/ModDate": null,
+        "/Keywords": "Ecosystem Classification, Southeast British Columbia, East Kootenay, Land Management Handbook, Biogeoclimatic Ecosystem Classification, Nelson Forest Region",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH71EcoClassSouthBC.pdf"
+    },
+    {
+        "id": "LMH71TempSupplBC",
+        "/Title": "A Temporary Supplement to Land Management Handbook 71: A Field Guide to Ecosystem Classification and Identification for Southeast British Columbia: Two Biogeoclimatic Subzones/Variants in the Golden–Invermere TSAs",
+        "/Author": "Deb MacKillop",
+        "/Subject": "This supplement is part of a series of new field guides being developed for southeast British Columbia. It includes site classification and ecosystem information for two biogeoclimatic units: ICHmk5 and ESSFmm3. It provides management direction for these biogeoclimatic units, which would complement the updated and published guide in LMH 71.",
+        "/Creator": "Deb MacKillop",
+        "/CreationDate": "2018",
+        "/ModDate": null,
+        "/Keywords": "Ecosystem Classification, Southeast British Columbia, Biogeoclimatic Subzones, Land Management Handbook, ICHmk5, ESSFmm3",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH71TempSupplBC.pdf"
+    },
+    {
+        "id": "LMH70BCGUIDE",
+        "/Title": "Land Management Handbook 70: Field Guide to Ecosystem Classification and Identification for Southeast British Columbia - The South-Central Columbia Mountains",
+        "/Author": "B.C. Ministry of Forests, Lands and Natural Resource Operations",
+        "/Subject": "This field guide presents site classification and identification information for ecosystems of the south-central Columbia Mountains, following the Biogeoclimatic Ecosystem Classification (BEC) system. It is part of a four-volume series for southeast British Columbia that updates the biogeoclimatic and site classification previously published for the former Nelson Forest Region.",
+        "/Creator": "Deb MacKillop and Audrey Ehman",
+        "/CreationDate": "2016",
+        "/ModDate": null,
+        "/Keywords": "Ecosystem Classification, Identification, South-Central Columbia Mountains, Biogeoclimatic Ecosystem Classification (BEC), Nelson Forest Region, Kootenay Lake, Arrow Timber Supply Areas (TSAs)",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH70BCGUIDE.pdf"
+    },
+    {
+        "id": "LMH70SUPPL1",
+        "/Title": "A Temporary Supplement to Land Management Handbook 70: A Field Guide to Ecosystem Classification and Identification for Southeast British Columbia: Four Biogeoclimatic Subzones/Variants in the Boundary-Okanagan",
+        "/Author": "B.C. Ministry of Forests, Lands and Natural Resource Operations",
+        "/Subject": "This supplement is part of a series of new field guides being developed for southeast British Columbia. It includes site classification and ecosystem information for four biogeoclimatic units: ESSFmh, ESSFdc1, ICHdw4, ICHmw5.",
+        "/Creator": "Deb MacKillop, Audrey Ehman, and Mike Ryan",
+        "/CreationDate": "2016",
+        "/ModDate": null,
+        "/Keywords": "Ecosystem Classification, Identification, Southeast British Columbia, Biogeoclimatic Subzones, Variants, Boundary-Okanagan, ESSFmh, ESSFdc1, ICHdw4, ICHmw5",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH70SUPPL1.pdf"
+    },
+    {
+        "id": "LMH69BCWildfire",
+        "/Title": "Land Management Handbook 69 - Post-wildfire Natural Hazards Risk Analysis in British Columbia",
+        "/Author": "B.C. Ministry of Forests, Lands and Natural Resource Operations",
+        "/Subject": "This handbook describes the process of assessing change following wildfire, along with an evaluation of downslope and downstream risks to life, property, and infrastructure. The process described will help professionals adapt their knowledge and experience to post-wildfire natural hazard risk analyses.",
+        "/Creator": "Graeme Hope, Peter Jordan, Rita Winkler, Tim Giles, Mike Curran, Ken Soneff, and Bill Chapman",
+        "/CreationDate": "2015",
+        "/ModDate": null,
+        "/Keywords": "Post-wildfire, Natural Hazards, Risk Analysis, British Columbia, Soil Erosion, Floods, Landslides, Snow Avalanches",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH69BCWildfire.pdf"
+    },
+    {
+		"id": "LMH67NTFPBC",
+		"/Title": "Non-timber Forest Product Development in British Columbia’s Community Forests and Small Woodlands: Constraints and Potential Solutions",
+		"/Author": "B.C. Ministry of Forests and Range, Centre for Livelihoods and Ecology, Forest Science Program, Royal Roads University",
+		"/Subject": "The document presents a comprehensive study on the constraints and potential solutions for non-timber forest product development in British Columbia’s Community Forests and Small Woodlands. It summarises the expertise and concerns of a group of community forest managers and small woodland managers interested in non-timber forest product management and development.",
+		"/Creator": "Emily Jane Davis",
+		"/CreationDate": "2011",
+		"/ModDate": "2011",
+		"/Keywords": "Non-timber Forest Product, British Columbia, Community Forests, Small Woodlands, Constraints, Potential Solutions",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH67NTFPBC.pdf"
+    },
+    {
+        "id": "LMH66CFHAGBCVol1",
+        "/Title": "Compendium of Forest Hydrology and Geomorphology in British Columbia Volume 1 of 2",
+        "/Author": "Ministry of Forests and Range, Forest Science Program",
+        "/Subject": "This document provides a comprehensive summary of the current knowledge and operational experience in forest hydrology, geomorphology, and watershed management in British Columbia. It is organized around six themes: the regional context, watershed hydrology, watershed geomorphology, water quality, stream and riparian ecology, and watershed management decision support.",
+        "/Creator": "Robin G. Pike, Todd E. Redding, R.D. (Dan) Moore, Rita D. Winkler, and Kevin D. Bladon (editors)",
+        "/CreationDate": "201006",
+        "/ModDate": "None",
+        "/Keywords": "Forest Hydrology, Geomorphology, British Columbia, Watershed Management, Water Quality, Stream Ecology, Riparian Ecology",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH66CFHAGBCVol1.pdf"
+    },
+    {
+        "id": "LMH66CFHAGBCVol2",
+        "/Title": "Compendium of Forest Hydrology and Geomorphology in British Columbia Volume 2 of 2",
+        "/Author": "Ministry of Forests and Range, Forest Science Program",
+        "/Subject": "This handbook consolidates scientific knowledge and operational experience into 19 chapters, explaining watershed processes and effects of disturbances across different regions of British Columbia.",
+        "/Creator": "Robin G. Pike, Todd E. Redding, R.D. (Dan) Moore, Rita D. Winkler, and Kevin D. Bladon (editors)",
+        "/CreationDate": "201006",
+        "/ModDate": null,
+        "/Keywords": "Forest Hydrology, Geomorphology, British Columbia, Watershed Management, Water Resources",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH66CFHAGBCVol2.pdf"
+    },
+    {
+        "id": "LMH65BWBSEcoId",
+        "/Title": "Land Management Handbook 65: A Field Guide to Ecosystem Identification for the Boreal White and Black Spruce Zone of British Columbia",
+        "/Author": "S. Craig DeLong, Allen Banner, William H. MacKenzie, Bruce J. Rogers, Benita Kaytor",
+        "/Subject": "This guide presents site identification information for ecosystems of the Boreal White and Black Spruce (BWBS) biogeoclimatic zone of British Columbia. It offers descriptions of British Columbia’s boreal ecosystems, a comprehensive revision to the classification of the BWBS, guidance on classifying sites in the field, and insight into common site limitations and potential capabilities related to the ecological conditions of the classified units to assist in preparing management prescriptions.",
+        "/Creator": "British Columbia Ministry of Forests",
+        "/CreationDate": "None",
+        "/ModDate": "None",
+        "/Keywords": "Land Management, Ecosystem Identification, Boreal White and Black Spruce Zone, Biogeoclimatic Zone, British Columbia, Ecological Conditions, Management Prescriptions",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH65BWBSEcoId.pdf"
+    },
+    {
+        "id": "LMH64PineMush",
+        "/Title": "Compatible Management of Pine Mushrooms and Timber",
+        "/Author": "The British Columbia Inter-agency Non-timber Forest Resources (IANTFR) Committee",
+        "/Subject": "This guide describes the scientific and technical approach to understanding pine mushroom habitat and the compatible management of pine mushrooms and timber. It provides a concise overview of the key issues and concerns for each topic, and suggests resources that can help forest managers overcome some of the barriers to the compatible management they have identified.",
+        "/Creator": "The British Columbia Inter-agency Non-timber Forest Resources (IANTFR) Committee",
+        "/CreationDate": null,
+        "/ModDate": null,
+        "/Keywords": "Pine Mushrooms, Timber, Compatible Management, British Columbia, Forest Management, Non-timber Forest Resources",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH64PineMush.pdf"
+    },
+    {
+        "id": "LMH63BCSScale",
+        "/Title": "Land Management Handbook 63: Non-Timber Forest Products and Tourism: Opportunities for Small-Scale Forest Owners and Tenure Holders",
+        "/Author": "British Columbia Inter-agency Non-timber Forest Resources (IANTFR) Committee, Ministry of Forests and Range",
+        "/Subject": "This handbook provides an overview of the opportunities for small-scale forest owners and tenure holders in British Columbia to generate income from non-timber forest products (NTFPs) and tourism. It discusses the potential benefits of incorporating NTFPs within forest management and provides suggestions for initial assessments of feasibility for NTFP-based tourism products.",
+        "/Creator": "British Columbia Inter-agency Non-timber Forest Resources (IANTFR) Committee",
+        "/CreationDate": null,
+        "/ModDate": null,
+        "/Keywords": "Non-timber Forest Products, Tourism, Forest Management, British Columbia, Small-Scale Forest Owners, Tenure Holders",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH63BCSScale.pdf"
+    },
+    {
+        "id": "LMH62NTFP",
+        "/Title": "Understanding non-timber forest products activity on the land base",
+        "/Author": "Giuseppe Gerrard Olivotto",
+        "/Subject": "This handbook provides an overview of non-timber forest products (NTFPs) and their management in British Columbia. It discusses the importance of NTFPs, their value, and the potential for their inclusion in forest management plans. The guide also provides information on the types of NTFPs that are harvested in the province, their locations, and the potential impacts of harvesting.",
+        "/Creator": "The British Columbia Inter-agency Non-timber Forest Resources (iantfr) Committee",
+        "/CreationDate": null,
+        "/ModDate": null,
+        "/Keywords": "Non-timber forest products, Forest management, British Columbia, Harvesting, Land management",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH62NTFP.pdf"
+    },
+    {
+        "id": "LMH61BCHydRsk",
+        "/Title": "Managing Forested Watersheds for Hydrogeomorphic Risks on Fans",
+        "/Author": "Government of British Columbia",
+        "/Subject": "This manuscript describes five steps used to recognize and analyze risk in fan-watershed systems. The information presented builds upon a body of knowledge regarding fan-watershed systems from British Columbia and beyond.",
+        "/Creator": "Government of British Columbia",
+        "/CreationDate": "None",
+        "/ModDate": "None",
+        "/Keywords": "British Columbia, forested watersheds, fans, hydrogeomorphic events, watershed development, forest harvesting, risk analysis, fan-watershed systems",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH61BCHydRsk.pdf"
+    },
+    {
+        "id": "LMH60Cariboo",
+        "/Title": "Management Strategy for Mule Deer Winter Ranges in the Cariboo-Chilcotin Part 1a: Management Plan for Shallow and Moderate Snowpack Zones",
+        "/Author": "CCLUP Mule Deer Winter Range Strategy Committee",
+        "/Subject": "This document is part of a three-part package for planning timber harvesting on individual mule deer winter ranges in the shallow and moderate snowpack zones within the Cariboo-Chilcotin, British Columbia. It specifies long-term stand-level objectives for winter range management.",
+        "/Creator": "Ministry of Environment and the Ministry of Forests and Range",
+        "/CreationDate": "None",
+        "/ModDate": "None",
+        "/Keywords": "Mule Deer, Winter Ranges, Cariboo-Chilcotin, Management Plan, Shallow Snowpack Zones, Moderate Snowpack Zones",
+		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH60Cariboo.pdf"
+    }
 ]
 
 
