@@ -9,6 +9,8 @@ from langchain.vectorstores import Pinecone
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from dotenv import load_dotenv
+import json
+
 
 # Set Streamlit page config (must be the first Streamlit command)
 st.set_page_config(layout="wide", page_title="FVA", page_icon=":speech_balloon:")
@@ -29,6 +31,12 @@ index = pinecone.Index(index_name)
 embedding = OpenAIEmbeddings()
 vectorstore = Pinecone(index, embedding.embed_query, text_field)
 
+with open('pages/Library.json', 'r') as f:
+    library = json.load(f)
+
+# Convert the list of documents into a dictionary with the IDs as keys
+library_dict = {doc['id']: doc for doc in library}
+
 # VA Setup
 turbo_llm = ChatOpenAI(temperature=0.0, model_name="gpt-4-0613")  # gpt-4-0613 or gpt-3.5-turbo
 docsearch = Pinecone.from_existing_index(index_name=index_name, embedding=embedding)
@@ -46,17 +54,19 @@ st.title('Forestry Virtual Assistant')
 
 # Sidebar
 st.sidebar.title('Welcome')
+
 # How to use section
 how_to_use = st.sidebar.expander('How to use')
 with how_to_use:
-    st.markdown('<p style="font-size:10px">1. Enter your question in the text input field in the main area of the app.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">1. Enter your question related to forestry in the text input field in the main area of the app.</p>', unsafe_allow_html=True)
     st.markdown('<p style="font-size:10px">2. If you want to see the sources that the answer is based on, check the "Show Sources" checkbox.</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">3. If you want to see specific metadata from the sources, check the corresponding checkboxes under "Select Metadata".</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">4. Select the model you want to use from the dropdown menu. The options are "gpt-4" and "gpt-3.5-turbo".</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">5. Click the "Submit" button to get the answer to your question.</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">6. The answer will appear in the main area of the app. If you checked the "Show Sources" checkbox, the sources will appear below the answer.</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">7. If you want to ask another question, simply enter it in the text input field and click "Submit" again.</p>', unsafe_allow_html=True)
-    st.markdown('<p style="font-size:10px">8. To navigate to a different page, select the page from the dropdown menu in the sidebar.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">3. If you havve checked "Show Sources", you can choose to see specific metadata from the sources. Check the corresponding checkboxes under "Select Metadata".</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">4. Select the AI model you want to use from the dropdown menu. The options are "gpt-3.5-turbo-0613" and "gpt-4-0613".</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">5. Click the "Submit" button to get the answer to your question. The AI will search through a library of forestry documents for the most relevant information and present it as a clear and concise answer.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">6. The answer will appear in the main area of the app. If you checked the "Show Sources" checkbox, the sources will appear below the answer. Each source can be expanded to view its content and metadata.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">7. If you want to ask another question, simply enter it in the text input field and click "Submit" again. The text input field can be cleared by clicking the "x" on the right side of the field.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:10px">8. The total runtime and the model used for the last query are displayed at the bottom of the main area.</p>', unsafe_allow_html=True)
+
 
 # About section
 about = st.sidebar.expander('About')
@@ -119,7 +129,10 @@ if st.button('Submit'):
                 keywords = source.metadata.get("/Keywords", "N/A") if show_keywords else None
 
                 # Print the metadata
-                if id: st.write(f"\nID: {id}")
+                if id: 
+                    link = library_dict[id]['/Link']
+                    hyperlink = f'<a href="{link}" target="_blank">{id}</a>'
+                    st.markdown(hyperlink, unsafe_allow_html=True)
                 if author: st.write(f"Author: {author}")
                 if subject: st.write(f"Subject: {subject}")
                 if creator: st.write(f"Creator: {creator}")
@@ -136,6 +149,7 @@ if st.button('Submit'):
     total_time = end_time - start_time
     st.write("\nTotal runtime: {:.2f} seconds".format(total_time))
     st.write(f"Model used: {model_name}")
+
 
 
 
