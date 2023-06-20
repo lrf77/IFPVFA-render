@@ -1054,6 +1054,126 @@
         "/ModDate": "None",
         "/Keywords": "Mule Deer, Winter Ranges, Cariboo-Chilcotin, Management Plan, Shallow Snowpack Zones, Moderate Snowpack Zones",
 		"/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH60Cariboo.pdf"
+    },
+    {
+        "id": "AcronInit",
+        "/Title": "Forestry Acronyms and Initialisms",
+        "/Author": "Ministry of Forests and Range",
+        "/Subject": "A comprehensive list of acronyms and initialisms used in forestry, created by the Ministry of Forests and Range.",
+        "/Creator": "Ministry of Forests and Range",
+        "/CreationDate": "20070701",
+        "/ModDate": null,
+        "/Keywords": "Forestry, Acronyms, Initialisms, Ministry of Forests and Range",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/AcronInit.pdf"
+    },
+    {
+        "id": "BCGlossFor",
+        "/Title": "Glossary of Forestry Terms in British Columbia",
+        "/Author": "Ministry of Forests and Range",
+        "/Subject": "This document provides a glossary of forestry terms used in British Columbia, including definitions and explanations of various terms, concepts, and practices related to forestry and land management.",
+        "/Creator": "Ministry of Forests and Range",
+        "/CreationDate": "200803",
+        "/ModDate": null,
+        "/Keywords": "Forestry, Glossary, British Columbia, Land Management, Aboriginal rights, Adaptive ecosystem management",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/BCGlossFor.pdf"
+    },
+    {
+        "id": "LMH59Cariboo",
+        "/Title": "Management Strategy for Mule Deer Winter Ranges in the Cariboo-Chilcotin Part 1b: Management Plan for Transition and Deep Snowpack Zones",
+        "/Author": "CCLUP Mule Deer Winter Range Strategy Committee",
+        "/Subject": "This document is Part of a set of information required for planning timber harvesting on individual mule deer winter ranges in the transition and deep snowpack zones within the Cariboo-Chilcotin, British Columbia. This plan sets out standlevel objectives and strategies for these winter ranges.",
+        "/Creator": "Ministry of Environment and the Ministry of Forests and Range",
+        "/CreationDate": null,
+        "/ModDate": null,
+        "/Keywords": "Mule Deer, Winter Ranges, Cariboo-Chilcotin, Management Strategy, Timber Harvesting, Standlevel Objectives, Strategies",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/Lmh59.pdf"
+    {
+        "id": "LMH58DendGeo",
+        "/Title": "Dendroecology: A Guide for Using Trees to Date Geomorphic and Hydrologic Events",
+        "/Author": "David Wilford, Paolo Cherubini, and Matt Sakals",
+        "/Subject": "This handbook serves as a guide for using dendroecology, the study of tree response to environmental conditions, to date geomorphic and hydrologic events. It provides forest practitioners with techniques for interpreting records left in tree rings due to environmental events such as landslides or flooding. The guide includes field and laboratory methods for applying dendroecology techniques to determine the dates of such events.",
+        "/Creator": "David Wilford, Paolo Cherubini, Matt Sakals, B.C. Ministry of Forests, Swiss Federal Institute for Forest, Snow and Landscape Research, Bulkley Valley Centre for Natural Resources Research and Management",
+        "/CreationDate": "2005",
+        "/ModDate": null,
+        "/Keywords": "dendroecology, tree response, environmental conditions, geomorphic events, hydrologic events, forest practitioners",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/Lmh58.pdf"
+    },
+    {
+        "id": "LMH57ForestMgmt",
+        "/Title": "Forest Management on Fans: Hydrogeomorphic Hazards and General Prescriptions",
+        "/Author": "D.J. Wilford, M.E. Sakals, and J.L. Innes",
+        "/Subject": "This handbook presents a six-step hazard recognition scheme that enables forest practitioners to prepare appropriate strategies and prescriptions for forest management on fans, considering hydrogeomorphic hazards. The scheme is applicable to forested fans throughout British Columbia.",
+        "/Creator": "Ministry of Forests Forest Science Program",
+        "/CreationDate": "2005",
+        "/ModDate": "None",
+        "/Keywords": "Forest Management, Fans, Hydrogeomorphic Hazards, Prescriptions, British Columbia",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH57ForestMgmt.pdf"
+    },
+    {
+        "id": "LMH56LandslideRisk",
+        "/Title": "Landslide Risk Case Studies in Forest Development Planning and Operations",
+        "/Author": "Ministry of Forests Forest Science Program",
+        "/Subject": "This handbook presents a framework for landslide risk management, describes technical terms and methods of landslide risk analysis, and provides a set of landslide risk case studies in forest development. It has been prepared for both forest resource managers and terrain stability professionals.",
+        "/Creator": "Mike Wise, Glenn Moore, and Doug VanDine",
+        "/CreationDate": "2004",
+        "/ModDate": "None",
+        "/Keywords": "Landslide Risk, Forest Development, Planning, Operations, Terrain Stability",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH56LandslideRisk.pdf"
+    },
+    {
+        "id": "LMH54FGSI",
+        "/Title": "A Field Guide to Site Identification and Interpretation for the North Central Portion of the Northern Interior Forest Region",
+        "/Author": "Ministry of Forests, Forest Science Program",
+        "/Subject": "This guide presents site identification and interpretation information for forest ecosystems of the north central portion of the Northern Interior Forest Region. It aims to assist the user in classifying sample sites in the field and provide interpretations for these site units that will assist the user in preparing management prescriptions.",
+        "/Creator": "Ministry of Forests, Forest Science Program",
+        "/CreationDate": "2004",
+        "/ModDate": "None",
+        "/Keywords": "Forest Ecosystems, Northern Interior Forest Region, Site Identification, Site Interpretation, Biogeoclimatic Ecosystem Classification, Silviculture Prescription",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH54FGSI.pdf"
+    },
+    {
+        "id": "LMH53NatDist",
+        "/Title": "Estimating Historical Variability of Natural Disturbances in British Columbia",
+        "/Author": "Carmen Wong, Brigitte Dorner, Holger Sandmann",
+        "/Subject": "This report presents a review of natural disturbance dynamics for each of the 14 biogeoclimatic zones in British Columbia. It also presents methods for determining intervals for stand-replacing and stand-maintaining disturbances. The report demonstrates an application of the process for selecting and using one of the methods for determining disturbance intervals in the Arrow Forest District. Finally, it presents recommendations to address the gaps identified in research on disturbance dynamics, data collection, and data maintenance, as well as quantitative methods for determining disturbance intervals in British Columbia.",
+        "/Creator": "Ministry of Forests, Forest Science Program, Ministry of Sustainable Resource Management, Resource Planning Branch",
+        "/CreationDate": "2003",
+        "/ModDate": "None",
+        "/Keywords": "Natural Disturbances, British Columbia, Forest Management, Biogeoclimatic Zones, Disturbance Dynamics, Disturbance Intervals, Arrow Forest District",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH53NatDist.pdf"
+    },
+    {
+        "id": "LMH52Wetland",
+        "/Title": "Wetlands of British Columbia: A Guide to Identification",
+        "/Author": "William H. MacKenzie, Jennifer R.Moran",
+        "/Subject": "This guide presents a site classification and interpretative information for wetlands and related ecosystems of British Columbia. The objectives of the classification are to provide a framework for organizing ecological information and management experience about ecosystems, promote a better understanding of wetlands and related ecosystems, provide users with a common language to describe wetland ecosystems, and provide an ecological basis for management of wetlands.",
+        "/Creator": "The Research Branch of British Columbia’s Ministry of Forests",
+        "/CreationDate": "None",
+        "/ModDate": "None",
+        "/Keywords": "Wetlands, British Columbia, Ecosystems, Biogeoclimatic Ecosystem Classification, Wetland and Riparian Ecosystem Classification",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH52Wetland.pdf"
+    },
+    {
+        "id": "LMH51PGFR",
+        "/Title": "A Field Guide to Site Identification and Interpretation for the Southeast Portion of the Prince George Forest Region",
+        "/Author": "C. DeLong",
+        "/Subject": "This guide presents site identification and interpretation information for forest ecosystems of the southeast portion of the Prince George Forest Region. It provides a framework for organizing ecological information and management experience about ecosystems, promotes understanding of identified ecosystems and the relationships among them, and supplies resource managers with a common language to describe forest sites.",
+        "/Creator": "Ministry of Forests, Forest Science Program",
+        "/CreationDate": "2003",
+        "/ModDate": null,
+        "/Keywords": "Forest Ecosystems, Site Identification, Interpretation, Prince George Forest Region, Biogeoclimatic Ecosystem Classification, Resource Management, Silviculture Prescription",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH51PGFR.pdf"
+    },
+    {
+        "id": "LMH50SilvSurv",
+        "/Title": "The Effect of the Silviculture Survey Parameters on the Free-Growing Decision Probabilities and Projected Volume at Rotation",
+        "/Author": "Wendy A. Bergerud, Ministry of Forests, Forest Science Program",
+        "/Subject": "This handbook discusses the silviculture survey system used by the B.C. Ministry of Forests to assess stands for free-growing status. The silviculture survey system is reviewed, and the decision curve as a statistical tool to assess risk is explained. Decision curves are used to explore the effects of changes to survey parameters, as determined by a simulation study of homogeneous stem maps.",
+        "/Creator": "Wendy A. Bergerud, B.C. Ministry of Forests, Research Branch",
+        "/CreationDate": "2002",
+        "/ModDate": "None",
+        "/Keywords": "Silviculture Survey, Free-Growing Decision, Projected Volume, Rotation, Forests, Forest Science",
+        "/Link": "https://storage.googleapis.com/moflibrary/Uploaded/LMH50SilvSurv.pdf"
     }
 ]
 
