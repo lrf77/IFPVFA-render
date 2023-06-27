@@ -13,7 +13,7 @@ import json
 
 
 # Set Streamlit page config (must be the first Streamlit command)
-st.set_page_config(layout="wide", page_title="FVA", page_icon=":speech_balloon:")
+st.set_page_config(layout="wide", page_title="FVA", page_icon=":evergreen_tree:")
 
 # Load Pinecone
 load_dotenv()
@@ -26,10 +26,19 @@ index_name = "moflibrary"
 text_field = 'text'
 
 # Vector Store
-pinecone.init(api_key=api_key, environment=env)
-index = pinecone.Index(index_name)
-embedding = OpenAIEmbeddings()
-vectorstore = Pinecone(index, embedding.embed_query, text_field)
+@st.cache_resource
+def initialize_pinecone_index():
+    pinecone.init(api_key=api_key, environment=env)
+    index = pinecone.Index(index_name)
+    embedding = OpenAIEmbeddings()
+    vectorstore = Pinecone(index, embedding.embed_query, text_field)
+    return embedding  # Make sure to return the embedding object
+
+embedding = initialize_pinecone_index()  # Call the function and store the return value in the embedding variable
+
+# Now you can use embedding when defining docsearch
+docsearch = Pinecone.from_existing_index(index_name=index_name, embedding=embedding)
+
 
 with open('pages/Library.json', 'r') as f:
     library = json.load(f)
