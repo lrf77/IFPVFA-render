@@ -1,7 +1,6 @@
-elevenlabs
-duckduckgo-search
+elevenlabs==0.2.15
 langchain
-pinecone_client
+pinecone_client==2.2.1
 python-dotenv==0.21.1
 streamlit
 altair==4.1.0
