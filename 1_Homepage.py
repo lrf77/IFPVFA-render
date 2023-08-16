@@ -11,7 +11,6 @@ from langchain.chat_models import ChatOpenAI
 from dotenv import load_dotenv
 import json
 
-
 # Set Streamlit page config (must be the first Streamlit command)
 st.set_page_config(layout="wide", page_title="FVA", page_icon=":evergreen_tree:")
 
@@ -23,6 +22,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 api_key = os.getenv("PINECONE_API_KEY")
 env = os.getenv("PINECONE_ENVIRONMENT")
 index_name = "moflibrary"
+namespace = "moflibrary"
 text_field = 'text'
 
 # Vector Store
@@ -31,14 +31,14 @@ def initialize_pinecone_index():
     pinecone.init(api_key=api_key, environment=env)
     index = pinecone.Index(index_name)
     embedding = OpenAIEmbeddings()
-    vectorstore = Pinecone(index, embedding.embed_query, text_field)
-    return embedding  # Make sure to return the embedding object
+    return embedding, index
 
-embedding = initialize_pinecone_index()  # Call the function and store the return value in the embedding variable
+# Call the function to initialize Pinecone and get the embedding and index objects
+embedding, index = initialize_pinecone_index()
 
-# Now you can use embedding when defining docsearch
-docsearch = Pinecone.from_existing_index(index_name=index_name, embedding=embedding)
-
+# Create the vector store and other components outside the cached function
+vectorstore = Pinecone(index, embedding.embed_query, text_field)
+docsearch = Pinecone.from_existing_index(index_name=index_name, namespace=namespace, embedding=embedding)
 
 with open('pages/Library.json', 'r') as f:
     library = json.load(f)
@@ -47,8 +47,7 @@ with open('pages/Library.json', 'r') as f:
 library_dict = {doc['id']: doc for doc in library}
 
 # VA Setup
-turbo_llm = ChatOpenAI(temperature=0.0, model_name="gpt-4-0613")  # gpt-4-0613 or gpt-3.5-turbo
-docsearch = Pinecone.from_existing_index(index_name=index_name, embedding=embedding)
+turbo_llm = ChatOpenAI(temperature=0.0, model_name="gpt-4")
 qa_chain = RetrievalQA.from_chain_type(llm=turbo_llm, chain_type="stuff", retriever=docsearch.as_retriever(), return_source_documents=True)
 
 # Functions to format the response
@@ -65,7 +64,7 @@ st.title('Forestry Virtual Assistant')
 st.sidebar.title('Welcome')
 
 # How to use section
-how_to_use = st.sidebar.expander('How to use')
+how_to_use = st.sidebar.expander('How to Use')
 with how_to_use:
     st.markdown('<p style="font-size:10px">1. Enter your question related to forestry in the text input field in the main area of the app.</p>', unsafe_allow_html=True)
     st.markdown('<p style="font-size:10px">2. If you want to see the sources that the answer is based on, check the "Show Sources" checkbox.</p>', unsafe_allow_html=True)
@@ -110,15 +109,10 @@ if show_sources:
         show_keywords = st.checkbox('Show Keywords')
 
 # Model selection
-model_name = st.selectbox('Select model:', ('gpt-3.5-turbo-0613', 'gpt-4-0613'))
+model_name = st.selectbox('Select model:', ('gpt-3.5-turbo-16k', 'gpt-4'))
 
 if st.button('Submit'):
-    # VA Setup
-    turbo_llm = ChatOpenAI(temperature=0.0, model_name=model_name)
-    docsearch = Pinecone.from_existing_index(index_name=index_name, embedding=embedding)
-    qa_chain = RetrievalQA.from_chain_type(llm=turbo_llm, chain_type="stuff", retriever=docsearch.as_retriever(), return_source_documents=True)
-
-    start_time = time.time()
+    start_time = time.time() # Moved the start time here
     llm_response = qa_chain({"query": query})
     response_text = wrap_text_preserve_newlines(llm_response['result'])
     st.write(response_text)
@@ -126,20 +120,20 @@ if st.button('Submit'):
     if show_sources:
         st.write('\n\nSources:')
         for i, source in enumerate(llm_response["source_documents"]):
-            title = source.metadata.get("/Title", "N/A")  # Always show the title
+            title = source.metadata.get("Title", "N/A")  # Always show the title
             with st.expander(f'Source {i+1}: {title}'):
                 # Extract the metadata from the source document
                 id = source.metadata.get("id", "N/A") if show_id else None
-                author = source.metadata.get("/Author", "N/A") if show_author else None
-                subject = source.metadata.get("/Subject", "N/A") if show_subject else None
-                creator = source.metadata.get("/Creator", "N/A") if show_creator else None
-                creation_date = source.metadata.get("/CreationDate", "N/A") if show_creation_date else None
-                mod_date = source.metadata.get("/ModDate", "N/A") if show_mod_date else None
-                keywords = source.metadata.get("/Keywords", "N/A") if show_keywords else None
+                author = source.metadata.get("Author", "N/A") if show_author else None
+                subject = source.metadata.get("Subject", "N/A") if show_subject else None
+                creator = source.metadata.get("Creator", "N/A") if show_creator else None
+                creation_date = source.metadata.get("CreationDate", "N/A") if show_creation_date else None
+                mod_date = source.metadata.get("ModDate", "N/A") if show_mod_date else None
+                keywords = source.metadata.get("Keywords", "N/A") if show_keywords else None
 
                 # Print the metadata
                 if id: 
-                    link = library_dict[id]['/Link']
+                    link = library_dict[id]['Link']
                     hyperlink = f'<a href="{link}" target="_blank">{id}</a>'
                     st.markdown(hyperlink, unsafe_allow_html=True)
                 if author: st.write(f"Author: {author}")

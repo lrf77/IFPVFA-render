@@ -1,9 +1,10 @@
-elevenlabs==0.2.15
 langchain
-pinecone_client==2.2.1
+pinecone_client
 python-dotenv==0.21.1
 streamlit
 altair==4.1.0
 click==8.0.1
 openai
 pandas
+google-search-results
+tiktoken

@@ -33,9 +33,9 @@ def page():
     df = pd.DataFrame(data)
 
     # Convert 'Creation Date' column to string
-    df['/CreationDate'] = df['/CreationDate'].astype(str)
+    df['CreationDate'] = df['CreationDate'].astype(str)
 
-    df = df[['id', '/Link', '/Title', '/CreationDate', '/Author', '/Subject', '/Keywords']]
+    df = df[['id', 'Link', 'Title', 'CreationDate', 'Author', 'Subject', 'Keywords']]
     df.columns = ['ID', 'Link', 'Title', 'Creation Date', 'Author', 'Subject', 'Keywords']
 
     # Sort by 'ID'
